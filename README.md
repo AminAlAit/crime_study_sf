@@ -1,6 +1,6 @@
-## [Crime Study](https://github.com/AminAlAit/crime_study_sf)
+## [Crime Study](https://github.com/AminAlAit/crime_study_sf/blob/main/notebook.ipynb)
 
-### [Data Science for Social Good](https://github.com/AminAlAit/crime_study_sf)
+### [Data Science for Social Good](https://github.com/AminAlAit/crime_study_sf/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
 Quantitative analyses can have a significant impact on initiating change within one's community. When analyzed responsibly, data can provide evidence to understand difficult social issues correctly. In this project, you will leverage publicly available data to interpret crime patterns within the city of San Francisco.
